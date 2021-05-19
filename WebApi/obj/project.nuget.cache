@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RzXyzsjlRNccAloajMqwNaFqWSMtXmVNFyJGSgCBaiSMZ6UI7T0fg08uS/MY6VTdc6x7PAVSsRaZ115kAlfMNQ==",
+  "dgSpecHash": "VI3bJ/Tk5DaB+m1VnN6HlSn5/XGLhHqtioYGb9ASwvxihNim5tlGKbyxVUIXiII6XyMA4C1qYhCG1drZ7BdKEQ==",
   "success": true,
-  "projectFilePath": "/Users/y.koldovska/Documents/Studies/ТРПЗ/web-api-testing/WebApi/WebApi.csproj",
+  "projectFilePath": "/Users/y.koldovska/Documents/Studies/ТРПЗ/webapi-testing-master/WebApi/WebApi.csproj",
   "expectedPackageFiles": [
     "/Users/y.koldovska/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/y.koldovska/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

@@ -4654,11 +4654,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/y.koldovska/Documents/Studies/ТРПЗ/web-api-testing/WebApi/WebApi.csproj",
+      "projectUniqueName": "/Users/y.koldovska/Documents/Studies/ТРПЗ/webapi-testing-master/WebApi/WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "/Users/y.koldovska/Documents/Studies/ТРПЗ/web-api-testing/WebApi/WebApi.csproj",
+      "projectPath": "/Users/y.koldovska/Documents/Studies/ТРПЗ/webapi-testing-master/WebApi/WebApi.csproj",
       "packagesPath": "/Users/y.koldovska/.nuget/packages/",
-      "outputPath": "/Users/y.koldovska/Documents/Studies/ТРПЗ/web-api-testing/WebApi/obj/",
+      "outputPath": "/Users/y.koldovska/Documents/Studies/ТРПЗ/webapi-testing-master/WebApi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/y.koldovska/.nuget/NuGet/NuGet.Config"
